@@ -1,4 +1,4 @@
-# My Roosevelt Sample App
+# static-site
 
 ## Setup
 
@@ -22,4 +22,4 @@
     - Available shorthands:
       - `npm run prodproxy`
       - `npm run x`
-  - See [docs](https://github.com/rooseveltframework/roosevelt) for more information about configuring and running the app.
+  - See [docs](https://rooseveltframework.org) for more information about configuring and running the app.

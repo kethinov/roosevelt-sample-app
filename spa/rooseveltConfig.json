@@ -5,7 +5,7 @@
   },
   "https": {
     "enable": true,
-    "port": 17021,
+    "port": 37126,
     "options": {
       "cert": "cert.pem",
       "key": "key.pem"
@@ -38,7 +38,8 @@
           "config": {
             "entry": "${js.sourcePath}/main.js",
             "output": {
-              "path": "${publicFolder}/js"
+              "path": "${publicFolder}/js",
+              "filename": "main.js"
             },
             "resolve": {
               "alias": {
