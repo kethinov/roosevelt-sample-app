@@ -1,5 +1,5 @@
 {
-  "name": "spa",
+  "name": "my-roosevelt-sample-app",
   "description": "",
   "version": "0.1.0",
   "author": "",
@@ -12,20 +12,21 @@
   "dependencies": {
     "check-if-css-is-disabled": "~2.0.0",
     "roosevelt": "~0.31.0",
-    "sass": "~1.89.0",
-    "semantic-forms": "~5.1.0",
+    "sass": "~1.98.0",
+    "semantic-forms": "~5.3.0",
     "single-page-express": "~2.0.0",
     "teddy": "~1.1.0",
-    "webpack": "~5.100.0"
+    "webpack": "~5.105.0"
   },
   "devDependencies": {
     "nodemon": "~3.1.0",
     "standard": "~17.1.0",
-    "stylelint": "~16.22.0",
-    "stylelint-config-standard-scss": "~15.0.0"
+    "stylelint": "~17.4.0",
+    "stylelint-config-standard-scss": "~17.0.0"
   },
   "nodemonConfig": {
     "ignore": [
+      ".build/",
       "public/"
     ],
     "ext": "scss html js json"

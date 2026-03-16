@@ -1,4 +1,4 @@
-# spa
+# My Roosevelt Sample App
 
 ## Setup
 
