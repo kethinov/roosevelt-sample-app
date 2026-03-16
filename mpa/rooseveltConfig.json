@@ -5,7 +5,7 @@
   },
   "https": {
     "enable": true,
-    "port": 17409,
+    "port": 12249,
     "options": {
       "cert": "cert.pem",
       "key": "key.pem"

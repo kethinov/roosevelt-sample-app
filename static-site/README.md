@@ -1,4 +1,4 @@
-# static-site
+# My Roosevelt Sample App
 
 ## Setup
 
